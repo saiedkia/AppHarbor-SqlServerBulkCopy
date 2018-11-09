@@ -12,3 +12,6 @@ _Resharper.*
 /src/*.ncrunchsolution
 /src/*.user
 /release
+
+*/packages
+*.vs*
